@@ -32,7 +32,7 @@ Once the app is running locally or accessed through the provided link, you can s
 - **Clearing the List**: To clear your to-do list, click the "Clear List" button.
 - **Removing a Task**: Each task has a "Delete" button. Click it to remove the corresponding task.
 
-![To-Do List App Screenshot](app_screenshot.png)
+![To-Do List App Screenshot](https://github.com/mosekyle/To-do-list_app/blob/main/Screenshot_20230913-164854~2.png)
 
 ## Technical Insights
 
