@@ -1,6 +1,6 @@
 # To-Do List Flask App
 
-![To-Do List App Banner](todo_list_app_banner.png)
+![To-Do List App Banner](https://github.com/mosekyle/To-do-list_app/blob/main/Screenshot_20230913-164756~2.png)
 
 ## Introduction
 
